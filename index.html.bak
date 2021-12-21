@@ -17,6 +17,7 @@
 			  $( "#draggable4" ).draggable();
 			  $( "#draggable5" ).draggable();
 			  $( "#draggable6" ).draggable();
+			  $( "#draggable7" ).draggable();
 			} );
 	    </script>
 	</head>
@@ -109,6 +110,12 @@
 			left:  55vw; 
 			width: 10vw;
 		"><img src="img/angel_bear.gif"></div>
+		
+		<div id="draggable7" class="draggable" style="
+			top:   32vw; 
+			left:  55vw; 
+			width: 10vw;
+		"><img src="img/chao2.gif"></div>
 		
 		
 	</body>
